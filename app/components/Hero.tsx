@@ -188,7 +188,7 @@ export default function Hero() {
             >
               {[
                 {
-                  href: "https://github.com/ELMOtarek1",
+                  href: "https://github.com/ElmoGaber",
                   icon: <FaGithub size={28} />,
                   color: "hover:text-primary",
                 },

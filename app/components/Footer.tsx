@@ -33,7 +33,7 @@ export default function Footer() {
 
   const socialLinks = [
     {
-      href: "https://github.com/ELMOtarek1",
+      href: "https://github.com/ElmoGaber",
       icon: <FaGithub size={24} />,
       label: "GitHub",
       color: "hover:text-primary",

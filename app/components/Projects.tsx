@@ -34,7 +34,7 @@ export default function Projects() {
         },
       ],
       tags: ["3D Modeling", "Computer Vision", "Creative AI"],
-      github: "https://github.com/ELMOtarek1",
+      github: "https://github.com/ElmoGaber",
       demo: "https://codanweb.vercel.app/",
       category: "AI/ML",
       year: "2025",
@@ -60,7 +60,7 @@ export default function Projects() {
         },
       ],
       tags: ["NLP", "Chatbot", "Topic Analysis"],
-      github: "https://github.com/ELMOtarek1",
+      github: "https://github.com/ElmoGaber",
       demo: "https://topic-recognition-chatbot.vercel.app/",
       category: "AI/ML",
       year: "2025",
@@ -86,7 +86,7 @@ export default function Projects() {
         },
       ],
       tags: ["Deep Learning", "Computer Vision", "Healthcare"],
-      github: "https://github.com/ELMOtarek1",
+      github: "https://github.com/ElmoGaber",
       demo: "https://tooth-x-ray.vercel.app/",
       category: "AI/ML",
       year: "2024",
@@ -112,7 +112,7 @@ export default function Projects() {
         },
       ],
       tags: ["Deep Learning", "Healthcare", "CNN"],
-      github: "https://github.com/ELMOtarek1",
+      github: "https://github.com/ElmoGaber",
       demo: "https://skin-cancer-pre.vercel.app/",
       category: "AI/ML",
       year: "2024",
@@ -138,7 +138,7 @@ export default function Projects() {
         },
       ],
       tags: ["Clustering", "Data Analysis", "Customer Segmentation"],
-      github: "https://github.com/ELMOtarek1",
+      github: "https://github.com/ElmoGaber",
       demo: "https://mall-customer.vercel.app/",
       category: "Data Science",
       year: "2024",
@@ -164,7 +164,7 @@ export default function Projects() {
         },
       ],
       tags: ["Data Analysis", "Marketing", "Clustering"],
-      github: "https://github.com/ELMOtarek1",
+      github: "https://github.com/ElmoGaber",
       demo: "https://customer-segment.vercel.app/",
       category: "Data Science",
       year: "2023",
@@ -190,7 +190,7 @@ export default function Projects() {
         },
       ],
       tags: ["Computer Vision", "OpenCV", "Object Detection"],
-      github: "https://github.com/ELMOtarek1",
+      github: "https://github.com/ElmoGaber",
       demo: "https://real-time-object.vercel.app/",
       category: "AI/ML",
       year: "2023",
@@ -216,7 +216,7 @@ export default function Projects() {
         },
       ],
       tags: ["NLP", "LLM", "Document Analysis"],
-      github: "https://github.com/ELMOtarek1",
+      github: "https://github.com/ElmoGaber",
       demo: "https://chatwithpdfweb.vercel.app/",
       category: "AI/ML",
       year: "2023",
@@ -242,7 +242,7 @@ export default function Projects() {
         },
       ],
       tags: ["Classification", "Predictive Modeling", "Telecom"],
-      github: "https://github.com/ELMOtarek1",
+      github: "https://github.com/ElmoGaber",
       demo: "https://telecom-churn-predictions.vercel.app/",
       category: "Data Science",
       year: "2023",
@@ -268,7 +268,7 @@ export default function Projects() {
         },
       ],
       tags: ["Regression", "Predictive Modeling", "Real Estate"],
-      github: "https://github.com/ELMOtarek1",
+      github: "https://github.com/ElmoGaber",
       demo: "https://house-price-pre.vercel.app/",
       category: "Data Science",
       year: "2022",
@@ -291,7 +291,7 @@ export default function Projects() {
         },
       ],
       tags: ["Automation", "Python", "Cloud"],
-      github: "https://github.com/ELMOtarek1",
+      github: "https://github.com/ElmoGaber",
       demo: "https://gym-reservation-bot.vercel.app/",
       category: "Web",
       year: "2021",
@@ -314,7 +314,7 @@ export default function Projects() {
         },
       ],
       tags: ["Android", "Java", "Mobile App"],
-      github: "https://github.com/ELMOtarek1",
+      github: "https://github.com/ElmoGaber",
       demo: "https://ticket-price-calculator.vercel.app/",
       category: "Mobile",
       year: "2020",
@@ -337,7 +337,7 @@ export default function Projects() {
         },
       ],
       tags: ["Java", "JavaFX", "Banking"],
-      github: "https://github.com/ELMOtarek1",
+      github: "https://github.com/ElmoGaber",
       demo: "https://java-fx-banking-system.vercel.app/",
       category: "Web",
       year: "2020",
@@ -360,10 +360,249 @@ export default function Projects() {
         },
       ],
       tags: ["Speech Recognition", "NLP", "Accessibility"],
-      github: "https://github.com/ELMOtarek1",
+      github: "https://github.com/ElmoGaber",
       demo: "https://speech-recogni.vercel.app/",
       category: "AI/ML",
       year: "2020",
+      featured: false,
+    },
+    {
+      title: "3D Face Reconstruction Using Generative AI",
+      description:
+        "Transforms 2D facial sketches and images into realistic 3D face models using generative AI and depth prediction by combining GANs and MiDaS-DPT architectures.",
+      mainImage: "https://images.unsplash.com/photo-1611532736900-6ba6b5ef0ad0?q=80&w=2940&auto=format&fit=crop",
+      images: [
+        {
+          url: "https://images.unsplash.com/photo-1611532736900-6ba6b5ef0ad0?q=80&w=2940&auto=format&fit=crop",
+          alt: "3D face reconstruction",
+        },
+        {
+          url: "https://images.unsplash.com/photo-1633356122544-f134324a6cee?q=80&w=2940&auto=format&fit=crop",
+          alt: "Face modeling AI",
+        },
+        {
+          url: "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=2940&auto=format&fit=crop",
+          alt: "3D generation technology",
+        },
+      ],
+      images: [
+        { url: "https://images.unsplash.com/photo-1611532736900-6ba6b5ef0ad0?q=80&w=2940&auto=format&fit=crop", alt: "3D face reconstruction" },
+        { url: "https://images.unsplash.com/photo-1633356122544-f134324a6cee?q=80&w=2940&auto=format&fit=crop", alt: "Face modeling AI" },
+        { url: "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=2940&auto=format&fit=crop", alt: "3D generation technology" },
+      ],
+      tags: ["3D Reconstruction", "Generative AI", "Computer Vision"],
+      github: "https://github.com/ElmoGaber",
+      demo: "",
+      category: "AI/ML",
+      year: "2025",
+      featured: true,
+    },
+    {
+      title: "Medical RAG ChatBot",
+      description:
+        "Built an intelligent medical AI agent using LlamaIndex, Groq's LLaMA 3.3 7B, and HuggingFace Embeddings. The agent can answer questions about medical records and provide intelligent insights.",
+      mainImage: "https://images.unsplash.com/photo-1576091160550-2173dba999ef?q=80&w=2940&auto=format&fit=crop",
+      images: [
+        {
+          url: "https://images.unsplash.com/photo-1576091160550-2173dba999ef?q=80&w=2940&auto=format&fit=crop",
+          alt: "Medical AI chatbot",
+        },
+        {
+          url: "https://images.unsplash.com/photo-1606857521015-7f9fcf423740?q=80&w=2940&auto=format&fit=crop",
+          alt: "Healthcare AI system",
+        },
+        {
+          url: "https://images.unsplash.com/photo-1631217314830-e63d3b92ad63?q=80&w=2940&auto=format&fit=crop",
+          alt: "Medical data processing",
+        },
+      ],
+      tags: ["RAG", "LLM", "Healthcare AI"],
+      github: "https://github.com/ElmoGaber",
+      demo: "",
+      category: "AI/ML",
+      year: "2025",
+      featured: false,
+    },
+    {
+      title: "CMATE – Virtual Try On System",
+      description:
+        "Built as a full-stack ready prototype with Python and image processing, enabling virtual try-on experiences with containerized deployment for e-commerce applications.",
+      mainImage: "https://images.unsplash.com/photo-1552052173-512f86db6a49?q=80&w=2940&auto=format&fit=crop",
+      images: [
+        {
+          url: "https://images.unsplash.com/photo-1552052173-512f86db6a49?q=80&w=2940&auto=format&fit=crop",
+          alt: "Virtual try-on technology",
+        },
+        {
+          url: "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?q=80&w=2940&auto=format&fit=crop",
+          alt: "Fashion e-commerce solution",
+        },
+        {
+          url: "https://images.unsplash.com/photo-1567521464027-f127ff144326?q=80&w=2940&auto=format&fit=crop",
+          alt: "Image processing for fashion",
+        },
+      ],
+      tags: ["Computer Vision", "Full-Stack", "E-commerce"],
+      github: "https://github.com/ElmoGaber",
+      demo: "",
+      category: "Web",
+      year: "2024",
+      featured: false,
+    },
+    {
+      title: "Voice Text to Image Generative AI",
+      description:
+        "AI-powered multimodal system that generates images from voice or text input using deep learning and generative adversarial networks (GANs) for creative content generation.",
+      mainImage: "https://images.unsplash.com/photo-1678957940223-4e26af6ce04a?q=80&w=2940&auto=format&fit=crop",
+      images: [
+        {
+          url: "https://images.unsplash.com/photo-1678957940223-4e26af6ce04a?q=80&w=2940&auto=format&fit=crop",
+          alt: "Text to image generation",
+        },
+        {
+          url: "https://images.unsplash.com/photo-1655720406911-33d3dd18cbaf?q=80&w=2940&auto=format&fit=crop",
+          alt: "AI image synthesis",
+        },
+        {
+          url: "https://images.unsplash.com/photo-1655720828018-edd3b8e46cf5?q=80&w=2940&auto=format&fit=crop",
+          alt: "Generative AI models",
+        },
+      ],
+      tags: ["GANs", "Multimodal AI", "Image Generation"],
+      github: "https://github.com/ElmoGaber",
+      demo: "",
+      category: "AI/ML",
+      year: "2024",
+      featured: false,
+    },
+    {
+      title: "Employee and Countries Data API",
+      description:
+        "Built a web service for collecting and loading data from multiple sources, processing employee and country information and exporting as JSON files.",
+      mainImage: "https://images.unsplash.com/photo-1633356122544-f134324a6cee?q=80&w=2940&auto=format&fit=crop",
+      images: [
+        {
+          url: "https://images.unsplash.com/photo-1633356122544-f134324a6cee?q=80&w=2940&auto=format&fit=crop",
+          alt: "Data API",
+        },
+        {
+          url: "https://images.unsplash.com/photo-1551288049-bebda4e3b8e8?q=80&w=2940&auto=format&fit=crop",
+          alt: "Data processing",
+        },
+        {
+          url: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=2940&auto=format&fit=crop",
+          alt: "Web service architecture",
+        },
+      ],
+      tags: ["Web Service", "Data Processing", "API"],
+      github: "https://github.com/ElmoGaber",
+      demo: "",
+      category: "Web",
+      year: "2024",
+      featured: false,
+    },
+    {
+      title: "Recommendation System",
+      description:
+        "Built a book recommendation system using K-Nearest Neighbors (KNN) algorithm, providing personalized book suggestions based on user preferences and reading history.",
+      mainImage: "https://images.unsplash.com/photo-1507842217343-583f7270bfba?q=80&w=2940&auto=format&fit=crop",
+      images: [
+        {
+          url: "https://images.unsplash.com/photo-1507842217343-583f7270bfba?q=80&w=2940&auto=format&fit=crop",
+          alt: "Book recommendation system",
+        },
+        {
+          url: "https://images.unsplash.com/photo-1532012197267-da84d127e765?q=80&w=2940&auto=format&fit=crop",
+          alt: "KNN algorithm visualization",
+        },
+        {
+          url: "https://images.unsplash.com/photo-1512820790803-83ca734da794?q=80&w=2940&auto=format&fit=crop",
+          alt: "Personalization engine",
+        },
+      ],
+      tags: ["KNN", "Machine Learning", "Recommendation"],
+      github: "https://github.com/ElmoGaber",
+      demo: "",
+      category: "Data Science",
+      year: "2023",
+      featured: false,
+    },
+    {
+      title: "Weather and Books Data Scraping",
+      description:
+        "Automated web scraping project that collects weather data and book information from multiple websites, then stores the data in CSV files and databases for analysis.",
+      mainImage: "https://images.unsplash.com/photo-1551288049-bebda4e3b8e8?q=80&w=2940&auto=format&fit=crop",
+      images: [
+        {
+          url: "https://images.unsplash.com/photo-1551288049-bebda4e3b8e8?q=80&w=2940&auto=format&fit=crop",
+          alt: "Web scraping project",
+        },
+        {
+          url: "https://images.unsplash.com/photo-1532012197267-da84d127e765?q=80&w=2940&auto=format&fit=crop",
+          alt: "Data collection",
+        },
+        {
+          url: "https://images.unsplash.com/photo-1555255707-c07966088b7b?q=80&w=2940&auto=format&fit=crop",
+          alt: "Database storage",
+        },
+      ],
+      tags: ["Web Scraping", "Data Collection", "Python"],
+      github: "https://github.com/ElmoGaber",
+      demo: "",
+      category: "Data Science",
+      year: "2023",
+      featured: false,
+    },
+    {
+      title: "TMDB Movies Analysis",
+      description:
+        "Comprehensive exploratory data analysis (EDA) project on TMDB movie dataset with data visualization, preprocessing, and insights into movie trends and patterns.",
+      mainImage: "https://images.unsplash.com/photo-1489599849228-13a2e0e0b923?q=80&w=2940&auto=format&fit=crop",
+      images: [
+        {
+          url: "https://images.unsplash.com/photo-1489599849228-13a2e0e0b923?q=80&w=2940&auto=format&fit=crop",
+          alt: "Movie analysis dashboard",
+        },
+        {
+          url: "https://images.unsplash.com/photo-1551288049-bebda4e3b8e8?q=80&w=2940&auto=format&fit=crop",
+          alt: "Data visualization",
+        },
+        {
+          url: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=2940&auto=format&fit=crop",
+          alt: "EDA process",
+        },
+      ],
+      tags: ["EDA", "Data Visualization", "Movies"],
+      github: "https://github.com/ElmoGaber",
+      demo: "",
+      category: "Data Science",
+      year: "2022",
+      featured: false,
+    },
+    {
+      title: "Loan Data Preprocessing",
+      description:
+        "Applied comprehensive data preprocessing techniques including feature selection, data cleansing, and feature engineering on loan dataset for machine learning models.",
+      mainImage: "https://images.unsplash.com/photo-1554224311-beee415c15cb?q=80&w=2940&auto=format&fit=crop",
+      images: [
+        {
+          url: "https://images.unsplash.com/photo-1554224311-beee415c15cb?q=80&w=2940&auto=format&fit=crop",
+          alt: "Data preprocessing",
+        },
+        {
+          url: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=2940&auto=format&fit=crop",
+          alt: "Feature engineering",
+        },
+        {
+          url: "https://images.unsplash.com/photo-1553729784-e91953dec042?q=80&w=2940&auto=format&fit=crop",
+          alt: "Data cleaning process",
+        },
+      ],
+      tags: ["Data Preprocessing", "Feature Engineering", "Finance"],
+      github: "https://github.com/ElmoGaber",
+      demo: "",
+      category: "Data Science",
+      year: "2023",
       featured: false,
     },
   ]
@@ -561,7 +800,7 @@ export default function Projects() {
           viewport={{ once: true }}
           className="text-center mt-16"
         >
-          <a href="https://github.com/ELMOtarek1" target="_blank" rel="noopener noreferrer" className="btn-primary">
+          <a href="https://github.com/ElmoGaber" target="_blank" rel="noopener noreferrer" className="btn-primary">
             {t("viewMoreGithub")}
           </a>
         </motion.div>

@@ -24,6 +24,19 @@ export default function Experience() {
   const experiences = [
     {
       id: 1,
+      title: "Full Stack Engineer",
+      company: "E-Tronic Company",
+      location: "Damietta, Egypt",
+      date: "04/2025 - Current",
+      description: [
+        "Skilled in TypeScript, Next.js, and Tailwind CSS experienced in building both front-end interfaces and back-end logic with secure and efficient APIs.",
+        "I deliver scalable, high-performance web applications with clean, maintainable code.",
+      ],
+      icon: <FaCode />,
+      color: "from-green-600 to-green-800",
+    },
+    {
+      id: 2,
       title: "Python Engineer Freelancer",
       company: "Upwork Freelance",
       location: "Damaietta, Egypt",
@@ -37,7 +50,7 @@ export default function Experience() {
       color: "from-blue-600 to-blue-800",
     },
     {
-      id: 2,
+      id: 3,
       title: "Mobile App Intern",
       company: "Custom Tech",
       location: "Damaietta, Egypt",
@@ -50,7 +63,7 @@ export default function Experience() {
       color: "from-indigo-600 to-indigo-800",
     },
     {
-      id: 3,
+      id: 4,
       title: "Artificial Intelligence Intern",
       company: "Codsoft Company",
       location: "Cairo, Egypt",
@@ -64,7 +77,7 @@ export default function Experience() {
       color: "from-purple-600 to-purple-800",
     },
     {
-      id: 4,
+      id: 5,
       title: "Flutter & Mobile Intern",
       company: "AMIT Academy",
       location: "Cairo, Egypt",
@@ -76,7 +89,7 @@ export default function Experience() {
       color: "from-teal-600 to-teal-800",
     },
     {
-      id: 5,
+      id: 6,
       title: "Data Analytics Consulting Intern",
       company: "Forage Company",
       location: "Damaietta, Egypt",
@@ -89,7 +102,7 @@ export default function Experience() {
       color: "from-cyan-600 to-cyan-800",
     },
     {
-      id: 6,
+      id: 7,
       title: "AI Developer Intern",
       company: "Instant Software Company",
       location: "Cairo, Egypt",
@@ -102,7 +115,7 @@ export default function Experience() {
       color: "from-violet-600 to-violet-800",
     },
     {
-      id: 7,
+      id: 8,
       title: "AI Developer Intern",
       company: "Route Software Development Academy",
       location: "Cairo, Egypt",
@@ -115,7 +128,7 @@ export default function Experience() {
       color: "from-blue-700 to-purple-700",
     },
     {
-      id: 8,
+      id: 9,
       title: "Front End Developer Intern",
       company: "BlackStone eIT",
       location: "Mansoura, Egypt",
@@ -129,7 +142,7 @@ export default function Experience() {
       color: "from-slate-600 to-slate-800",
     },
     {
-      id: 9,
+      id: 10,
       title: "Junior Graphic Designer",
       company: "Egy Designer Company",
       location: "Damaietta, Egypt",

@@ -567,7 +567,7 @@ export default function CVContent() {
 
                 <div className="mt-6 flex flex-wrap gap-4">
                   <a
-                    href="https://github.com/ELMOtarek1"
+                    href="https://github.com/ElmoGaber"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="inline-flex items-center gap-2 bg-card text-foreground px-6 py-3 rounded-full hover:bg-primary hover:text-white transition-colors"
