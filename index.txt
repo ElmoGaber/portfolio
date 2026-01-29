@@ -1,0 +1,54 @@
+2:I[9905,["699","static/chunks/8e1d74a4-b82f3a228cd280ab.js","957","static/chunks/30a37ab2-c042cb6c2ff39cae.js","589","static/chunks/589-adc0df8d4e8bb766.js","183","static/chunks/183-4268769fbc616dbe.js","145","static/chunks/145-ca505d86a22a5d5d.js","995","static/chunks/995-702684afbcd60091.js","763","static/chunks/763-df8c58b9ead72f22.js","931","static/chunks/app/page-b76b4a8364547fd0.js"],"default"]
+3:I[3521,["699","static/chunks/8e1d74a4-b82f3a228cd280ab.js","957","static/chunks/30a37ab2-c042cb6c2ff39cae.js","589","static/chunks/589-adc0df8d4e8bb766.js","183","static/chunks/183-4268769fbc616dbe.js","145","static/chunks/145-ca505d86a22a5d5d.js","995","static/chunks/995-702684afbcd60091.js","763","static/chunks/763-df8c58b9ead72f22.js","931","static/chunks/app/page-b76b4a8364547fd0.js"],"default"]
+4:I[347,["699","static/chunks/8e1d74a4-b82f3a228cd280ab.js","957","static/chunks/30a37ab2-c042cb6c2ff39cae.js","589","static/chunks/589-adc0df8d4e8bb766.js","183","static/chunks/183-4268769fbc616dbe.js","145","static/chunks/145-ca505d86a22a5d5d.js","995","static/chunks/995-702684afbcd60091.js","763","static/chunks/763-df8c58b9ead72f22.js","931","static/chunks/app/page-b76b4a8364547fd0.js"],"default"]
+5:I[4671,["699","static/chunks/8e1d74a4-b82f3a228cd280ab.js","957","static/chunks/30a37ab2-c042cb6c2ff39cae.js","589","static/chunks/589-adc0df8d4e8bb766.js","183","static/chunks/183-4268769fbc616dbe.js","145","static/chunks/145-ca505d86a22a5d5d.js","995","static/chunks/995-702684afbcd60091.js","763","static/chunks/763-df8c58b9ead72f22.js","931","static/chunks/app/page-b76b4a8364547fd0.js"],"default"]
+6:I[8046,["699","static/chunks/8e1d74a4-b82f3a228cd280ab.js","957","static/chunks/30a37ab2-c042cb6c2ff39cae.js","589","static/chunks/589-adc0df8d4e8bb766.js","183","static/chunks/183-4268769fbc616dbe.js","145","static/chunks/145-ca505d86a22a5d5d.js","995","static/chunks/995-702684afbcd60091.js","763","static/chunks/763-df8c58b9ead72f22.js","931","static/chunks/app/page-b76b4a8364547fd0.js"],"default"]
+7:I[6782,["699","static/chunks/8e1d74a4-b82f3a228cd280ab.js","957","static/chunks/30a37ab2-c042cb6c2ff39cae.js","589","static/chunks/589-adc0df8d4e8bb766.js","183","static/chunks/183-4268769fbc616dbe.js","145","static/chunks/145-ca505d86a22a5d5d.js","995","static/chunks/995-702684afbcd60091.js","763","static/chunks/763-df8c58b9ead72f22.js","931","static/chunks/app/page-b76b4a8364547fd0.js"],"default"]
+8:I[900,["699","static/chunks/8e1d74a4-b82f3a228cd280ab.js","957","static/chunks/30a37ab2-c042cb6c2ff39cae.js","589","static/chunks/589-adc0df8d4e8bb766.js","183","static/chunks/183-4268769fbc616dbe.js","145","static/chunks/145-ca505d86a22a5d5d.js","995","static/chunks/995-702684afbcd60091.js","763","static/chunks/763-df8c58b9ead72f22.js","931","static/chunks/app/page-b76b4a8364547fd0.js"],"default"]
+9:I[6091,["699","static/chunks/8e1d74a4-b82f3a228cd280ab.js","957","static/chunks/30a37ab2-c042cb6c2ff39cae.js","589","static/chunks/589-adc0df8d4e8bb766.js","183","static/chunks/183-4268769fbc616dbe.js","145","static/chunks/145-ca505d86a22a5d5d.js","995","static/chunks/995-702684afbcd60091.js","763","static/chunks/763-df8c58b9ead72f22.js","931","static/chunks/app/page-b76b4a8364547fd0.js"],"default"]
+a:I[6154,["699","static/chunks/8e1d74a4-b82f3a228cd280ab.js","957","static/chunks/30a37ab2-c042cb6c2ff39cae.js","589","static/chunks/589-adc0df8d4e8bb766.js","183","static/chunks/183-4268769fbc616dbe.js","145","static/chunks/145-ca505d86a22a5d5d.js","995","static/chunks/995-702684afbcd60091.js","763","static/chunks/763-df8c58b9ead72f22.js","931","static/chunks/app/page-b76b4a8364547fd0.js"],"default"]
+b:I[1928,["699","static/chunks/8e1d74a4-b82f3a228cd280ab.js","957","static/chunks/30a37ab2-c042cb6c2ff39cae.js","589","static/chunks/589-adc0df8d4e8bb766.js","183","static/chunks/183-4268769fbc616dbe.js","145","static/chunks/145-ca505d86a22a5d5d.js","995","static/chunks/995-702684afbcd60091.js","763","static/chunks/763-df8c58b9ead72f22.js","931","static/chunks/app/page-b76b4a8364547fd0.js"],"default"]
+c:I[67,["699","static/chunks/8e1d74a4-b82f3a228cd280ab.js","957","static/chunks/30a37ab2-c042cb6c2ff39cae.js","589","static/chunks/589-adc0df8d4e8bb766.js","183","static/chunks/183-4268769fbc616dbe.js","145","static/chunks/145-ca505d86a22a5d5d.js","995","static/chunks/995-702684afbcd60091.js","763","static/chunks/763-df8c58b9ead72f22.js","931","static/chunks/app/page-b76b4a8364547fd0.js"],"default"]
+d:I[3726,["699","static/chunks/8e1d74a4-b82f3a228cd280ab.js","957","static/chunks/30a37ab2-c042cb6c2ff39cae.js","589","static/chunks/589-adc0df8d4e8bb766.js","183","static/chunks/183-4268769fbc616dbe.js","145","static/chunks/145-ca505d86a22a5d5d.js","995","static/chunks/995-702684afbcd60091.js","763","static/chunks/763-df8c58b9ead72f22.js","931","static/chunks/app/page-b76b4a8364547fd0.js"],"default"]
+e:I[709,["699","static/chunks/8e1d74a4-b82f3a228cd280ab.js","957","static/chunks/30a37ab2-c042cb6c2ff39cae.js","589","static/chunks/589-adc0df8d4e8bb766.js","183","static/chunks/183-4268769fbc616dbe.js","145","static/chunks/145-ca505d86a22a5d5d.js","995","static/chunks/995-702684afbcd60091.js","763","static/chunks/763-df8c58b9ead72f22.js","931","static/chunks/app/page-b76b4a8364547fd0.js"],"default"]
+f:I[6205,["699","static/chunks/8e1d74a4-b82f3a228cd280ab.js","957","static/chunks/30a37ab2-c042cb6c2ff39cae.js","589","static/chunks/589-adc0df8d4e8bb766.js","183","static/chunks/183-4268769fbc616dbe.js","145","static/chunks/145-ca505d86a22a5d5d.js","995","static/chunks/995-702684afbcd60091.js","763","static/chunks/763-df8c58b9ead72f22.js","931","static/chunks/app/page-b76b4a8364547fd0.js"],"default"]
+11:I[9671,["699","static/chunks/8e1d74a4-b82f3a228cd280ab.js","589","static/chunks/589-adc0df8d4e8bb766.js","995","static/chunks/995-702684afbcd60091.js","185","static/chunks/app/layout-20ce1f627c04374a.js"],"LanguageProvider"]
+12:I[7090,["699","static/chunks/8e1d74a4-b82f3a228cd280ab.js","589","static/chunks/589-adc0df8d4e8bb766.js","995","static/chunks/995-702684afbcd60091.js","185","static/chunks/app/layout-20ce1f627c04374a.js"],"ThemeProvider"]
+13:I[4707,[],""]
+14:I[6423,[],""]
+15:I[6897,["699","static/chunks/8e1d74a4-b82f3a228cd280ab.js","589","static/chunks/589-adc0df8d4e8bb766.js","995","static/chunks/995-702684afbcd60091.js","185","static/chunks/app/layout-20ce1f627c04374a.js"],"default"]
+10:T449,
+            /* Hide any v0 branding */
+            [data-v0-t], 
+            .v0-badge,
+            .v0-watermark,
+            [class*="v0"],
+            [id*="v0"],
+            iframe[src*="v0"],
+            div[style*="v0"],
+            .built-with-v0 {
+              display: none !important;
+              visibility: hidden !important;
+              opacity: 0 !important;
+              position: absolute !important;
+              left: -9999px !important;
+              top: -9999px !important;
+              width: 0 !important;
+              height: 0 !important;
+              overflow: hidden !important;
+            }
+            
+            /* Additional v0 badge hiding */
+            div[style*="position: fixed"][style*="bottom"][style*="right"],
+            div[style*="position: fixed"][style*="bottom"][style*="left"] {
+              display: none !important;
+            }
+            
+            /* Hide any floating badges */
+            div[style*="z-index: 999"],
+            div[style*="z-index: 9999"] {
+              display: none !important;
+            }
+          0:["mI-hqOF-k_Ivkfbzq5D2A",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],["",{"children":["__PAGE__",{},[["$L1",["$","div",null,{"className":"min-h-screen bg-background text-foreground","children":[["$","$L2",null,{}],["$","$L3",null,{}],["$","main",null,{"className":"relative z-10","children":[["$","$L4",null,{}],["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","$L8",null,{}],["$","$L9",null,{}],["$","$La",null,{}],["$","$Lb",null,{}],["$","$Lc",null,{}]]}],["$","$Ld",null,{}],["$","$Le",null,{}],["$","$Lf",null,{}]]}],null],null],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/97e82d24b5db950b.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/7cca8e2c5137bd71.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","style",null,{"dangerouslySetInnerHTML":{"__html":"$10"}}]}],["$","body",null,{"className":"__className_f367f3","children":["$","$L11",null,{"children":["$","$L12",null,{"children":[["$","$L13",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L14",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}],["$","$L15",null,{}]]}]}]}]]}]],null],null],["$L16",null]]]]
+16:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Momen Tarek - AI & Tech Portfolio"}],["$","meta","3",{"name":"description","content":"Portfolio of Momen Tarek - AI Developer and Innovator in Technology"}],["$","meta","4",{"name":"generator","content":"v0.app"}]]
+1:null
