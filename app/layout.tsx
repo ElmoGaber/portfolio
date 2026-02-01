@@ -4,6 +4,7 @@ import type React from "react"
 import { ThemeProvider } from "./providers/theme-provider"
 import { LanguageProvider } from "./providers/language-provider"
 import ThemeControlsFixed from "./components/theme-controls-fixed"
+import AIChatbot from "./components/ai-chatbot"
 
 const inter = Inter({ subsets: ["latin"] })
 
@@ -64,6 +65,7 @@ export default function RootLayout({
           <ThemeProvider>
             {children}
             <ThemeControlsFixed />
+            <AIChatbot />
           </ThemeProvider>
         </LanguageProvider>
       </body>
