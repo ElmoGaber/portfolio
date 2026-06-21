@@ -4,6 +4,16 @@ import { FaDownload, FaEnvelope, FaPhone, FaMapMarkerAlt, FaGithub } from "react
 import { motion } from "framer-motion"
 
 export default function CVContent() {
+  const downloadCV = () => {
+    // Download the actual CV PDF file
+    const link = document.createElement("a")
+    link.href = "/Momen-Tarek-CV.pdf"
+    link.download = "Momen-Tarek-CV.pdf"
+    document.body.appendChild(link)
+    link.click()
+    document.body.removeChild(link)
+  }
+
   const generatePDF = () => {
     // Create a new window for the PDF content
     const printWindow = window.open("", "_blank")
@@ -144,7 +154,7 @@ export default function CVContent() {
 
           <div class="section">
             <div class="section-title">Summary</div>
-            <p>Artificial intelligence student with a data science focus seeks a role in an impactful organization. Possesses 4 years of experience in Java, Python, and C++, and 3 years in writing efficient code. Fluent in English, German and Spanish. Has 2 years of experience in demanding environments, and is detail-oriented, organized, and customer-focused. Forward-thinking intern pursuing a software degree, capable of handling multiple projects, and skilled in design software (Adobe Photoshop, Illustrator, Figma, Canva, and Affinity Designer), portfolio creation, practical work experience.</p>
+            <p>AI & Web Developer Engineer with a data science focus seeking a role in an impactful organization. Possesses 4 years of experience in Java, Python, and C++, and 3 years in writing efficient code. Fluent in English, German and Spanish. Has 2 years of experience in demanding environments, and is detail-oriented, organized, and customer-focused. Forward-thinking professional capable of handling multiple projects, and skilled in design software (Adobe Photoshop, Illustrator, Figma, Canva, and Affinity Designer), portfolio creation, and practical work experience.</p>
           </div>
 
           <div class="section">
@@ -502,7 +512,7 @@ export default function CVContent() {
                 </div>
 
                 <button
-                  onClick={generatePDF}
+                  onClick={downloadCV}
                   className="bg-primary text-white px-6 py-3 rounded-full hover:bg-accent transition-colors flex items-center gap-2 neon-button"
                 >
                   <FaDownload />

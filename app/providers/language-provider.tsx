@@ -32,7 +32,7 @@ const translations = {
     // Hero Section
     heroTitle: "Momen Tarek",
     heroDescription:
-      "Artificial intelligence student with a data science focus seeking a role in an impactful organization. Possessing 4 years of experience in Java, Python, and C++, and 3 years in writing efficient code. Fluent in English, German and Spanish. Detail-oriented, organized, and customer-focused with experience in demanding environments. Forward-thinking intern pursuing a software degree, capable of handling multiple projects, and skilled in design software.",
+      "AI & Web Developer Engineer with a data science focus seeking a role in an impactful organization. Possessing 4 years of experience in Java, Python, and C++, and 3 years in writing efficient code. Fluent in English, German and Spanish. Detail-oriented, organized, and customer-focused with experience in demanding environments. Forward-thinking professional capable of handling multiple projects, and skilled in design software.",
     viewProjects: "View Projects",
     contactMe: "Contact Me",
 

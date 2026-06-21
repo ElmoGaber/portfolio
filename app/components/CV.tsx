@@ -50,12 +50,11 @@ export default function CV() {
         <div className="bg-secondary rounded-lg p-8 mb-10">
           <h3 className="text-xl font-semibold mb-4 text-primary">Summary</h3>
           <p className="text-gray-300">
-            Artificial intelligence student with a data science focus seeks a role in an impactful organization.
+            AI & Web Developer Engineer with a data science focus seeking a role in an impactful organization.
             Possesses 4 years of experience in Java, Python, and C++, and 3 years in writing efficient code. Fluent in
             English, German and Spanish. Has 2 years of experience in demanding environments, and is detail-oriented,
-            organized, and customer-focused. Forward-thinking intern pursuing a software degree, capable of handling
-            multiple projects, and skilled in design software (Adobe Photoshop, Illustrator, Figma, Canva, and Affinity
-            Designer), portfolio creation, practical work experience.
+            organized, and customer-focused. Forward-thinking professional capable of handling multiple projects, and skilled in design software (Adobe Photoshop, Illustrator, Figma, Canva, and Affinity
+            Designer), portfolio creation, and practical work experience.
           </p>
         </div>
 

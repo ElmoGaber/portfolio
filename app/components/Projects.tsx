@@ -370,18 +370,18 @@ export default function Projects() {
       title: "3D Face Reconstruction Using Generative AI",
       description:
         "Transforms 2D facial sketches and images into realistic 3D face models using generative AI and depth prediction by combining GANs and MiDaS-DPT architectures.",
-      mainImage: "https://images.unsplash.com/photo-1611532736900-6ba6b5ef0ad0?q=80&w=1200&auto=format&fit=crop",
+      mainImage: "https://images.unsplash.com/photo-1550258987-920a2eae23e7?w=1200&q=80",
       images: [
         {
-          url: "https://images.unsplash.com/photo-1611532736900-6ba6b5ef0ad0?q=80&w=1200&auto=format&fit=crop",
+          url: "https://images.unsplash.com/photo-1550258987-920a2eae23e7?w=1200&q=80",
           alt: "3D face reconstruction",
         },
         {
-          url: "https://images.unsplash.com/photo-1633356122544-f134324a6cee?q=80&w=1200&auto=format&fit=crop",
+          url: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&q=80",
           alt: "Face modeling AI",
         },
         {
-          url: "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=1200&auto=format&fit=crop",
+          url: "https://images.unsplash.com/photo-1535378917042-10a22c9db878?w=1200&q=80",
           alt: "3D generation technology",
         },
       ],
@@ -422,18 +422,18 @@ export default function Projects() {
       title: "CMATE – Virtual Try On System",
       description:
         "Built as a full-stack ready prototype with Python and image processing, enabling virtual try-on experiences with containerized deployment for e-commerce applications.",
-      mainImage: "https://images.unsplash.com/photo-1552052173-512f86db6a49?q=80&w=1200&auto=format&fit=crop",
+      mainImage: "https://images.unsplash.com/photo-1556821552-ec7e69cd1491?w=1200&q=80",
       images: [
         {
-          url: "https://images.unsplash.com/photo-1552052173-512f86db6a49?q=80&w=1200&auto=format&fit=crop",
+          url: "https://images.unsplash.com/photo-1556821552-ec7e69cd1491?w=1200&q=80",
           alt: "Virtual try-on technology",
         },
         {
-          url: "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?q=80&w=1200&auto=format&fit=crop",
+          url: "https://images.unsplash.com/photo-1595814726663-06b3b1e0bfd4?w=1200&q=80",
           alt: "Fashion e-commerce solution",
         },
         {
-          url: "https://images.unsplash.com/photo-1567521464027-f127ff144326?q=80&w=1200&auto=format&fit=crop",
+          url: "https://images.unsplash.com/photo-1524156202865-69616f6d4852?w=1200&q=80",
           alt: "Image processing for fashion",
         },
       ],
@@ -448,18 +448,18 @@ export default function Projects() {
       title: "Voice Text to Image Generative AI",
       description:
         "AI-powered multimodal system that generates images from voice or text input using deep learning and generative adversarial networks (GANs) for creative content generation.",
-      mainImage: "https://images.unsplash.com/photo-1678957940223-4e26af6ce04a?q=80&w=1200&auto=format&fit=crop",
+      mainImage: "https://images.unsplash.com/photo-1577720643272-265e434f8bdf?w=1200&q=80",
       images: [
         {
-          url: "https://images.unsplash.com/photo-1678957940223-4e26af6ce04a?q=80&w=1200&auto=format&fit=crop",
+          url: "https://images.unsplash.com/photo-1577720643272-265e434f8bdf?w=1200&q=80",
           alt: "Text to image generation",
         },
         {
-          url: "https://images.unsplash.com/photo-1655720406911-33d3dd18cbaf?q=80&w=1200&auto=format&fit=crop",
+          url: "https://images.unsplash.com/photo-1535378917042-10a22c9db878?w=1200&q=80",
           alt: "AI image synthesis",
         },
         {
-          url: "https://images.unsplash.com/photo-1655720828018-edd3b8e46cf5?q=80&w=1200&auto=format&fit=crop",
+          url: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&q=80",
           alt: "Generative AI models",
         },
       ],
@@ -526,18 +526,18 @@ export default function Projects() {
       title: "Weather and Books Data Scraping",
       description:
         "Automated web scraping project that collects weather data and book information from multiple websites, then stores the data in CSV files and databases for analysis.",
-      mainImage: "https://images.unsplash.com/photo-1551288049-bebda4e3b8e8?q=80&w=1200&auto=format&fit=crop",
+      mainImage: "https://images.unsplash.com/photo-1557821552-17105176677c?w=1200&q=80",
       images: [
         {
-          url: "https://images.unsplash.com/photo-1551288049-bebda4e3b8e8?q=80&w=1200&auto=format&fit=crop",
+          url: "https://images.unsplash.com/photo-1557821552-17105176677c?w=1200&q=80",
           alt: "Web scraping project",
         },
         {
-          url: "https://images.unsplash.com/photo-1532012197267-da84d127e765?q=80&w=1200&auto=format&fit=crop",
+          url: "https://images.unsplash.com/photo-1507842217343-583f7270bfba?w=1200&q=80",
           alt: "Data collection",
         },
         {
-          url: "https://images.unsplash.com/photo-1555255707-c07966088b7b?q=80&w=1200&auto=format&fit=crop",
+          url: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&q=80",
           alt: "Database storage",
         },
       ],
@@ -552,18 +552,18 @@ export default function Projects() {
       title: "TMDB Movies Analysis",
       description:
         "Comprehensive exploratory data analysis (EDA) project on TMDB movie dataset with data visualization, preprocessing, and insights into movie trends and patterns.",
-      mainImage: "https://images.unsplash.com/photo-1489599849228-13a2e0e0b923?q=80&w=1200&auto=format&fit=crop",
+      mainImage: "https://images.unsplash.com/photo-1515634928627-7a3c3d16b5c2?w=1200&q=80",
       images: [
         {
-          url: "https://images.unsplash.com/photo-1489599849228-13a2e0e0b923?q=80&w=1200&auto=format&fit=crop",
+          url: "https://images.unsplash.com/photo-1515634928627-7a3c3d16b5c2?w=1200&q=80",
           alt: "Movie analysis dashboard",
         },
         {
-          url: "https://images.unsplash.com/photo-1551288049-bebda4e3b8e8?q=80&w=1200&auto=format&fit=crop",
+          url: "https://images.unsplash.com/photo-1551288049-bebda4e3b8e8?w=1200&q=80",
           alt: "Data visualization",
         },
         {
-          url: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=1200&auto=format&fit=crop",
+          url: "https://images.unsplash.com/photo-1448375240586-882707db888b?w=1200&q=80",
           alt: "EDA process",
         },
       ],
@@ -578,18 +578,18 @@ export default function Projects() {
       title: "Loan Data Preprocessing",
       description:
         "Applied comprehensive data preprocessing techniques including feature selection, data cleansing, and feature engineering on loan dataset for machine learning models.",
-      mainImage: "https://images.unsplash.com/photo-1554224311-beee415c15cb?q=80&w=1200&auto=format&fit=crop",
+      mainImage: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&q=80",
       images: [
         {
-          url: "https://images.unsplash.com/photo-1554224311-beee415c15cb?q=80&w=1200&auto=format&fit=crop",
+          url: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&q=80",
           alt: "Data preprocessing",
         },
         {
-          url: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=1200&auto=format&fit=crop",
+          url: "https://images.unsplash.com/photo-1551288049-bebda4e3b8e8?w=1200&q=80",
           alt: "Feature engineering",
         },
         {
-          url: "https://images.unsplash.com/photo-1553729784-e91953dec042?q=80&w=1200&auto=format&fit=crop",
+          url: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1200&q=80",
           alt: "Data cleaning process",
         },
       ],
@@ -599,6 +599,136 @@ export default function Projects() {
       category: "Data Science",
       year: "2023",
       featured: false,
+    },
+    {
+      title: "Mejuri Jewelry E-Commerce Platform",
+      description:
+        "Developed a full-stack e-commerce platform featuring product catalog management, shopping cart, user authentication, wishlist system, and responsive UI for luxury jewelry shopping experience.",
+      mainImage: "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?q=80&w=1200&auto=format&fit=crop",
+      images: [
+        {
+          url: "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?q=80&w=1200&auto=format&fit=crop",
+          alt: "Luxury jewelry showcase",
+        },
+        {
+          url: "https://images.unsplash.com/photo-1515562141207-6811bcdd56cd?q=80&w=1200&auto=format&fit=crop",
+          alt: "Jewelry e-commerce store",
+        },
+        {
+          url: "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?q=80&w=1200&auto=format&fit=crop",
+          alt: "Premium jewelry collection",
+        },
+      ],
+      tags: ["E-Commerce", "Full-Stack", "Jewelry"],
+      github: "https://github.com/ElmoGaber",
+      demo: "",
+      category: "Web",
+      year: "2025",
+      featured: true,
+    },
+    {
+      title: "Gatsby Fashion E-Commerce Store",
+      description:
+        "Built a full-stack fashion e-commerce website with product browsing, categories filtering (men/women/accessories), shopping system, blog/journal integration, and promotional landing pages.",
+      mainImage: "https://images.unsplash.com/photo-1595814726663-06b3b1e0bfd4?w=1200&q=80",
+      images: [
+        {
+          url: "https://images.unsplash.com/photo-1595814726663-06b3b1e0bfd4?w=1200&q=80",
+          alt: "Fashion e-commerce store",
+        },
+        {
+          url: "https://images.unsplash.com/photo-1556821552-ec7e69cd1491?w=1200&q=80",
+          alt: "Fashion product catalog",
+        },
+        {
+          url: "https://images.unsplash.com/photo-1524156202865-69616f6d4852?w=1200&q=80",
+          alt: "Online fashion boutique",
+        },
+      ],
+      tags: ["Gatsby", "E-Commerce", "Fashion"],
+      github: "https://github.com/ElmoGaber",
+      demo: "",
+      category: "Web",
+      year: "2025",
+      featured: true,
+    },
+    {
+      title: "Luxe Interiors Design Platform",
+      description:
+        "Developed a full-stack interior design business website featuring portfolio showcase, consultation booking system, client testimonials, and responsive corporate UI.",
+      mainImage: "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?q=80&w=1200&auto=format&fit=crop",
+      images: [
+        {
+          url: "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?q=80&w=1200&auto=format&fit=crop",
+          alt: "Interior design portfolio",
+        },
+        {
+          url: "https://images.unsplash.com/photo-1552321554-5fefe8c9ef14?q=80&w=1200&auto=format&fit=crop",
+          alt: "Luxury home design",
+        },
+        {
+          url: "https://images.unsplash.com/photo-1565183966519-514a57ba29a8?q=80&w=1200&auto=format&fit=crop",
+          alt: "Modern interior design",
+        },
+      ],
+      tags: ["Interior Design", "Portfolio", "Booking System"],
+      github: "https://github.com/ElmoGaber",
+      demo: "",
+      category: "Web",
+      year: "2025",
+      featured: true,
+    },
+    {
+      title: "RestoPoint Restaurant Management Platform",
+      description:
+        "Built a full-stack restaurant management system featuring POS, table reservations, kitchen display system (KDS), online ordering, payment integration, and analytics dashboard.",
+      mainImage: "https://images.unsplash.com/photo-1552566626-52f8b828add9?q=80&w=1200&auto=format&fit=crop",
+      images: [
+        {
+          url: "https://images.unsplash.com/photo-1552566626-52f8b828add9?q=80&w=1200&auto=format&fit=crop",
+          alt: "Restaurant management system",
+        },
+        {
+          url: "https://images.unsplash.com/photo-1563379091339-03b21ab4a104?q=80&w=1200&auto=format&fit=crop",
+          alt: "POS terminal interface",
+        },
+        {
+          url: "https://images.unsplash.com/photo-1504674900471-0c75b8ff9c8f?q=80&w=1200&auto=format&fit=crop",
+          alt: "Kitchen display system",
+        },
+      ],
+      tags: ["Restaurant", "POS System", "Order Management"],
+      github: "https://github.com/ElmoGaber",
+      demo: "",
+      category: "Web",
+      year: "2025",
+      featured: true,
+    },
+    {
+      title: "SmilePro Clinic Management System",
+      description:
+        "Built a full-stack clinic management and appointment booking platform with responsive design, admin dashboard, WhatsApp integration, patient management, and real-time scheduling features, improving clinic workflow and patient engagement.",
+      mainImage: "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=1200&q=80",
+      images: [
+        {
+          url: "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=1200&q=80",
+          alt: "Clinic management dashboard",
+        },
+        {
+          url: "https://images.unsplash.com/photo-1576091160564-2caa50677053?w=1200&q=80",
+          alt: "Medical appointment system",
+        },
+        {
+          url: "https://images.unsplash.com/photo-1631217314830-e63d3b92ad63?w=1200&q=80",
+          alt: "Patient management interface",
+        },
+      ],
+      tags: ["Healthcare", "Clinic Management", "WhatsApp Integration"],
+      github: "https://github.com/ElmoGaber",
+      demo: "",
+      category: "Web",
+      year: "2025",
+      featured: true,
     },
   ]
 
